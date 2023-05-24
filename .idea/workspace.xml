@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23ed40ff-3e89-47f8-a66f-3bdfcf88e1b0" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/mock.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mock.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/result.html" afterDir="false" />
     </list>
     <list id="6679420a-0a4b-4628-bd2c-61cd75db2ea5" name="local" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,20 +81,23 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript 调试.mock.html">
+  <component name="RunManager" selected="JavaScript 调试.index.html (1)">
     <configuration name="index-old.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mihoyo/index-old.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index-old.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mihoyo/index-old.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lol.msi.new/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mihoyo/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="mock.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lol.msi.new/mock.html" useBuiltInWebServerPort="true">
+    <configuration name="result.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mihoyo/result.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="result.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mihoyo/result.html" useBuiltInWebServerPort="true">
+    <configuration name="result.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lol.msi.new/result.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1.js" working-dir="$PROJECT_DIR$">
@@ -100,10 +105,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript 调试.mock.html" />
+        <item itemvalue="JavaScript 调试.index.html (1)" />
+        <item itemvalue="JavaScript 调试.result.html" />
         <item itemvalue="JavaScript 调试.index.html" />
         <item itemvalue="JavaScript 调试.result.html" />
-        <item itemvalue="JavaScript 调试.index-old.html" />
         <item itemvalue="JavaScript 调试.index-old.html" />
       </list>
     </recent_temporary>
@@ -265,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684379392476</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="增加mock页面">
+      <created>1684933422527</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1684933422527</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,6 +356,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="1" />
     <MESSAGE value="速度优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="速度优化" />
+    <MESSAGE value="增加mock页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加mock页面" />
   </component>
 </project>
